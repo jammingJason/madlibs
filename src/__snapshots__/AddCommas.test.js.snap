@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <form>
+    <label
+      for="number"
+    >
+      Number : 
+    </label>
+    <input
+      class="number"
+      id="numberHolder"
+      name="number"
+      placeholder="12345"
+      role="numberHolder"
+      type="text"
+    />
+    <div>
+      <label
+        id="numCommas"
+      >
+        New Number Goes Here
+      </label>
+    </div>
+  </form>
+</DocumentFragment>
+`;
